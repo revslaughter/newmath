@@ -1,0 +1,47 @@
+So this is the idea, as put forth by Conrad Wolfram and modified by me:
+
+
+Here's why we teach math:
+
+1) See a real-world problem and formulate a question
+	- question must have some kind of answerable structure
+	- question must make sense logically, determine whether it is
+	  possible to find a solution
+
+2) Formulate a mathematical model
+	- model must be pulled from a resource of taught models
+		- statistical
+		- algebraic
+		- calculus
+		- set/group theory
+	- model must have some kind of solution or make some kind of prediction
+		- In other words, programmable
+		- students must be able to utilize taught models to program
+		  the solution to the problem
+
+3) Solution must be calculated
+	- Run the program
+
+4) Apply calculated solution
+	- determine logically whether the situation is satisfied
+	- determine any error and if there is a more appropriate solution
+	  or if the solution found could be optimized in the future
+
++++++++++++
+
+What do kids want when they're being taught math?
+
+	- They want to answer, "When will I ever USE this?"
+		- It's easy to see how we use history, it colors the world
+		  around us and forms our opinions about the world. Same with
+		  science, it tells us something about the world and gives us something
+		  to relate to.
+		- It's difficult to see how kids will use 'calculation-based' arithmetic
+		  that's taught today, especially when in the real world computers take
+		  care of calculation. We need instead to teach kids basic applied math
+		  using computers for waht they're meant for.
+
+	- They want to be challenged academically
+		- Student apathy is always a problem for any subject. However it
+		  runs high and deep for mathematics. Why is this different? Every person
+		  has the capacity for logical thinking, but in the end we graduate 
